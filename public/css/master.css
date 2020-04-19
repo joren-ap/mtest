@@ -117,13 +117,6 @@ textarea {
     font-size: 1.4rem;
 }
 
-footer {
-    display: block;
-    margin-top: 5rem;
-    text-align: center;
-    font-size: 1.2rem;
-}
-
 #dh1 {
     font-size: 4rem;
     line-height: 4.7rem;
@@ -176,4 +169,20 @@ b {
     font-size: 1.6rem;
     margin: 3.5rem 8px 4rem;
     line-height: 2.2rem;
+}
+
+.site {
+    font-size: 4.3vw;
+    margin: 8px;
+    color: white;
+}
+
+.bla {
+  background-color: rgb(37, 37, 37);
+  height: 9rem;
+  padding-top: 8px;
+}
+
+.recent {
+  margin-bottom: 42rem;
 }
