@@ -1,0 +1,179 @@
+body {
+    font-family: avenir next;
+    background-color: rgb(201, 201, 201);
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1.7rem;
+    font-weight: 500;
+    background-color: rgb(37, 37, 37);
+    padding: 1rem 0;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.element-item img {
+    max-height: 21rem;
+    display: block;
+    margin: 1.5rem auto;
+    max-width: 85vw;
+}
+
+.coll {
+    font-size: 4.2rem;
+    font-weight: 300;
+    text-align: center;
+    margin: 3rem 8px;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid black;
+}
+
+.titel {
+    font-weight: 300;
+    font-size: 2.6rem;
+    line-height: 3.3rem;
+    width: 81vw;
+}
+
+.date {
+    font-size: 1.3rem;
+    font-weight: 600;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+
+.author {
+    font-size: 1.5rem;
+    font-weight: 600;
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+}
+
+.link {
+    position: absolute;
+    bottom:1rem;
+    right: 1rem;
+    font-size: 1.4rem;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(70, 70, 70);
+    border-radius: 0.5rem;
+}
+
+h2 {
+    font-size: 1.9rem;
+    margin: 0 8px 1rem;
+    padding-top: 1.8rem;
+    font-weight: 500;
+    line-height: 2.7rem;
+    border-top: 1px solid black;
+}
+
+em {
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.adres {
+    margin-left: 8px;
+    margin-bottom: 2.5rem;
+    font-size: 1.4rem;
+    line-height: 2rem;
+}
+
+p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin: 8px;
+    font-weight: 500;
+}
+
+.container {
+    margin: 2rem 8px;
+    line-height: 2.5rem;
+}
+
+label {
+    font-size: 1.4rem;
+    font: avenir next;
+    font-weight: 500;
+}
+
+textarea {
+    width: 100%;
+}
+
+.zend {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    font-family: avenir next;
+    font-size: 1.4rem;
+}
+
+footer {
+    display: block;
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+#dh1 {
+    font-size: 4rem;
+    line-height: 4.7rem;
+}
+
+.dauteur {
+    font-size: 2.4rem;
+    margin: 8px;
+    font-weight: 500;
+}
+
+.ddatum {
+    margin: 1.5rem 8px 2rem;
+    display: block;
+    font-size: 1.6rem;
+}
+
+.dimg {
+    display: block;
+    width: 100%;
+    margin: auto;
+    border-radius: 0.6rem;
+}
+
+.ddescr {
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 2.3rem;
+    display: block;
+    margin-top: 2rem;
+    text-align: justify;
+    margin: 2.6rem auto 0;
+    width: 80vw;
+}
+
+.backgr {
+    background-color: rgb(218, 218, 218);
+    width: 85vw;
+    margin: auto;
+    border-radius: 0.6rem;
+}
+
+b {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.inl {
+    font-weight: 300;
+    font-size: 1.6rem;
+    margin: 3.5rem 8px 4rem;
+    line-height: 2.2rem;
+}

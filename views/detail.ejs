@@ -1,0 +1,13 @@
+<%- include('header'); -%>
+
+<article>
+  <h1 class="coll" id="dh1"><%=post.title %></h1>
+  <address class="dauteur"><%=post.author %></address>
+  <date class="ddatum"><%=post.date %></date>
+  <div class="backgr">
+  <img class="dimg" src="<%=post.img %>" alt="">
+  <p class="ddescr"><%=post.description %></p>
+  </div>
+</article>
+
+<%- include('footer'); -%>

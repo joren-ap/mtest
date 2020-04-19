@@ -1,0 +1,19 @@
+<%- include("header") -%>
+
+    <h1 class="coll" style="font-weight: 500;">knAP museum</h1>
+
+    <p class="inl"><b>Welcome</b><br><br>knAP museum is a pop-up museum which brings art to students at the AP University College in Antwerp.<br> This website has been made to showcase the art that is currently in <a href="/art">our collection</a>.</p>
+
+    <h2>Discover '<%=posts[0].title %>', the most recent art item added to our collection:</h2>
+
+    <div class="recent">
+    <% for (let i=0; i<1; i++) { %>
+        <section>
+          <%- include('kunstwerk', {post: posts[i], index: i}); -%>
+        </section>
+      <% } // close forloop %>
+    </div>
+
+    <div class="spacer"></div>
+
+<%- include("footer") -%>

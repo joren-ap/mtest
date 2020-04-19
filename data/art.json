@@ -1,0 +1,74 @@
+{
+    "art": [{
+      "title": "Two Open Modular Cubes/Half-Off",
+      "class": "element-item 1970",
+      "date": "1972",
+      "author": "Sol LeWitt",
+      "description": "In 1982 the artist wrote, 'the most interesting characteristic of the cube is that it is relatively uninteresting. It is best used as a basic unit for any more elaborate function, the grammatical device from which the work may proceed.' This sculpture is one of a group on the same scale, beginning with a single cube and using it as a building block or module in various combinations. This is the key example of the 'half-off' sculptures, where the cubes abut along half of one side instead of being aligned. The series includes works with three half-off cubes and with five half-off cubes alternately projecting and receding in a zig-zag. There are potentially many additions to the basic form.",
+      "img": "/img/cubes.jpg"
+    },{
+      "title": "Square Tubes [Series D]",
+      "class": "element-item 1960",
+      "date": "1967",
+      "author": "Charlotte Posenenske",
+      "description": "Posenenske was interested in industrial methods of production, and produced free standing sculptures which often resemble standardised architectural units. Square Tubes Series D, consists of a number of folded, hollow elements which are joined together to create different shaped pieces, according to the owner’s decision. The tubes can be hung or placed on the floor in numerous configurations, and the physical organisation of the elements can be altered each time they are exhibited.",
+      "img": "/img/cha.jpg"
+    },{
+      "title": "Untitled",
+      "class": "element-item 1960",
+      "date": "1965",
+      "author": "Robert Morris",
+      "description": "Morris’s Minimalist sculptures of the mid-1960s consist of rigorously pared down geometric forms. He typically arranged these into ‘situations’ where ‘one is aware of one’s own body at the same time that one is aware of the piece’. This work demonstrates the principle. As the viewer walks around the four cubes, their mirrored surfaces produce complex and shifting interactions between gallery and spectator. The cubes were originally installed in the garden at Tate for Morris’s 1971 exhibition, but were put on show in the galleries when the exhibition had to be re-made with substitute works.",
+      "img": "/img/untitled.jpg"
+    },{
+      "title": "Cell No. 1",
+      "class": "element-item 1990",
+      "date": "1992",
+      "author": "Absalon",
+      "description": "Cell No.1 is one of six structures modelled on human dimensions that Absalon designed for various major cities around the world. He intended to inhabit these cells himself, maintaining a consistent lifestyle within a nomadic existence. The structure recalls the simple forms of modernist architecture. It also refers to the impact of technology in the twentieth century, mimicking a space capsule or nuclear shelter. Absalon explained that the cells embodied a 'desire for a perfect universe', not in the revolutionary or utopian sense, but as a personal space for solitude and shelter.",
+      "img": "/img/abs.jpg"
+    },{
+      "title": "Untitled",
+      "class": "element-item 1980",
+      "date": "1980",
+      "author": "Donald Judd",
+      "description": "Judd began making stacks in the 1960s. Most consist of ten elements, although there is variation in the materials used. The stacks are all ordered according to strict principles: the gap between each unit, and between the first unit and the floor, should be equal to the height of a single unit. Since the units are all identical, their significance derives from this pre-determined geometric order rather than from any individual features. However, Judd’s attention to the sensuous qualities of his materials prevents Untitled from being cold or clinical.",
+      "img": "/img/unti.jpg"
+    },{
+      "title": "Happy Holiday",
+      "class": "element-item 1990",
+      "date": "1999",
+      "author": "Agnes Martin",
+      "description": "Agnes Martin's spare, geometric compositions have drawn comparison with the work of Minimalist artists. However, Martin maintained that her paintings were concerned with the inner emotional world, searching for a perfection which was impossible to achieve, combined with the desire for contentment and serenity. The artist wrote that all her work, “is about perfection as we are aware of it in our minds but that the paintings are very far from being perfect – completely removed in fact – even as we ourselves are.” This is one of a series of paintings from the 1990s in which the artist used titles to evoke happy memories from the past.",
+      "img": "/img/happy.jpg"
+    },{
+      "title": "Untitled",
+      "class": "element-item 1970",
+      "date": "1972",
+      "author": "Donald Judd",
+      "description": "Like other artists of his generation, Judd challenged traditional European ideas about art-making. He coined the term ?specific objects? to refer to structures that were neither painting nor sculpture, but somewhere in between. This work reflects his desire to create self-sufficient objects, eliminating any factor that might interfere with the physical qualities of its materials. As he wrote, ?A shape, a volume, a colour, a surface is something in itself?.",
+      "img": "/img/unt.jpg"
+    },{
+      "title": "Abstract Painting No. 5",
+      "class": "element-item 1960",
+      "date": "1962",
+      "author": "Ad Reinhardt",
+      "description": "Ad Reinhardt's work became increasingly reductive and symmetrical in the 1950's and from 1955 until his death he worked almost exclusively in near-black. In fact the blue-black surface of 'Abstract Painting No. 5' has an underlying grid of different coloured squares divided by a green central horizontal band. Seen from top left, the squares are: red, blue, red, red, blue, red. Each of these colours was mixed with black oil paint to give a matt surface quality.",
+      "img": "/img/adt.jpg"
+    },{
+      "title": "Oneness of Concrete",
+      "class": "element-item 1970",
+      "date": "1971",
+      "author": "Jiro Takamatsu",
+      "description": "These works belong to Takamatsu’s Oneness series in which he explored the complexity and resonances of individual everyday materials. Takamatsu chose a single material and manipulated it, demonstrating its transformative potential as well as its uniqueness. For the artist this process was a means to achieve a ‘more total relation’ with the particular substance. The series can be read as Takamatsu’s comment on the rapid industrialisation in Japan in the post-war period, a time when traditional relationships to the natural world were overtaken by the development of consumer culture.",
+      "img": "/img/one.jpg"
+    },{
+      "title": "Untitled",
+      "class": "element-item 1960",
+      "date": "1967",
+      "author": "Larry Bell",
+      "description": "Based in Los Angeles, Bell?s work reflects a preoccupation by some West Coast artists with light and space. The three boxes shown here demonstrate his various technical approaches to achieving their distinctive surfaces. The chequer-board pattern of Untitled (1962) was made by scraping away squares from a mirror, which he then painted black. The smoked effect on the four mirrored squares in the centre was achieved by applying a thin coating to the glass in a vacuum environment. The oval patterns of Untitled (1964) were made by covering the glass with a chemical treatment that cuts off certain bands of light, so that they appear in different colours depending on the viewing angle. Bell later abandoned patterned cubes in favour of plain glass ones, achieving a suffused effect by coating their surfaces with a thin film of quartz and chromium, as in Untitled (1967).",
+      "img": "/img/cuu.jpg"
+    }]
+  }
+  
